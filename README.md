@@ -13,7 +13,7 @@ Circuit packages in order to improve auditability and maintainability of the Pri
 
 ## Common Circuit Packages:
 
-Packages found in the common/ direcotyr include commonly used circuits sourced from Circomlib, Zk-Kit or Maci Project.
+Packages found in the common/ directory include commonly used circuits sourced from Circomlib, Zk-Kit or Maci.
 **Only the Poseidon Package has been built-up from scratch.**
 
 ## Core Circuit Packages:
